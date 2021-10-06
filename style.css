@@ -1,0 +1,30 @@
+body{
+    text-align: center; 
+    background-image: url("./background.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+ }
+ 
+ div{
+     background-color: rgb(255, 255, 255);
+     opacity: 0.8 ;
+     margin-top: 50px;
+ }
+ 
+ h1{
+     font-size: 40px;
+ }
+ 
+ h3{
+     color: darkblue;
+     font-size: 30px;
+ }
+ label{
+     font-size: 25px;
+     color: darkblue;
+ }
+ 
+ span{
+     font-size: 25px;
+     color: darkmagenta;
+ }
